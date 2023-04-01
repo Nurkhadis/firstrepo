@@ -1,4 +1,5 @@
 print("Second file")
+print("Second file")
 
 a = 5
 
